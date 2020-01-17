@@ -1,0 +1,9 @@
+org/denys/ParamsServlet.class
+org/denys/HelloServletXML.class
+org/denys/HelloServletAnnotation.class
+org/denys/AsyncServlet.class
+org/denys/GzipServlet.class
+org/denys/CookiesServlet.class
+org/denys/HeadersServlet.class
+org/denys/SessionServlet.class
+org/denys/LifeCycleServlet.class
